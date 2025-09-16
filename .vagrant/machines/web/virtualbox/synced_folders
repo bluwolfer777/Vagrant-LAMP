@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"E:/Scuola/M340 - Virtualizzazione/esLAMP/shareVmWeb","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/Scuola/M340 - Virtualizzazione/esLAMP","disabled":false,"__vagrantfile":true}}}
